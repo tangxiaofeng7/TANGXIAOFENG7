@@ -8,6 +8,6 @@
 <br>
 
 - 🔭 I’m currently working on Hangzhou
-- 🌱 I’m currently learning pentesting
-- 👯 I’m looking to collaborate on hunziri
+- 🌱 I’m currently learning Pentesting
+- 👯 I’m looking to collaborate on Huashui
 
