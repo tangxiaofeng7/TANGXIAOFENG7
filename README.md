@@ -9,5 +9,3 @@
 
 - 🔭 I’m currently working on Hangzhou
 - 🌱 I’m currently learning Pentesting
-- 👯 I’m looking to collaborate on Huashui
-
