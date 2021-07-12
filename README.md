@@ -1,4 +1,4 @@
-<h2> Hi! brother👋</h2>
+<h2> Hi!👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=tangxiaofeng7&theme=vue&show_icons=true" width="380">
 <p><em>I'm a White Hat<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
